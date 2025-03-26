@@ -1,0 +1,6 @@
+# Ignorar la carpeta .envScraping
+envScraping/
+envScraping/*
+# Otros ejemplos comunes
+node_modules/
+.DS_Store
